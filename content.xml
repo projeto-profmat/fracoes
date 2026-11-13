@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261016202539GW8ZVD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261016202539GHTW0F</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Frações</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Aqui você verá os principais conteúdos sobre fração.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Bruno, Maicon e Nilton</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Atividade para alunos dos Anos Finais do Ensino Fundamental sobre frações, como parte da avaliação da disciplina de Recursos Computacionais no Ensino da Matemática do PROTMAT-UFF, turma 2025.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>pt</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non derived work - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-nd/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794611076353</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>f3802410-bf33-4b41-be36-29ce3128dc03</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Mensagem de Boas Vindas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mensagem de Boas Vindas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Informações Iniciais</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Mensagem de Boas Vindas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>f3802410-bf33-4b41-be36-29ce3128dc03</odePageId>
+      <odeBlockId>block-mvbi95pq-o4kxvax4g</odeBlockId>
+      <blockName>Olá, viajantes!</blockName>
+      <iconName>mi-paragliding</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>f3802410-bf33-4b41-be36-29ce3128dc03</odePageId>
+          <odeBlockId>block-mvbi95pq-o4kxvax4g</odeBlockId>
+          <odeIdeviceId>idevice-1792187650861-88yompdgb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Que bom ter você aqui. A partir de agora, você iniciará uma verdadeira jornada pelo mundo das frações.</p>
+<p>Nosso objetivo? Aprender sobre frações equivalentes de um jeito totalmente novo: através de atividades dinâmicas, visuais e muito divertidas.</p>
+<p>Não se preocupe com as dificuldades, nós vamos caminhar juntos por cada etapa desse universo.</p>
+<p><a href="exe-node:page-mwc4crkr-9c9i5kxok" title="">Vamos lá?</a></p>
+<p>  <img src="{{context_path}}/content/resources/fração.jpg" title="Frações" width="612" height="306" alt="Várias frações circulares, do inteiro até 1/21, desenhadas no estilo doodle." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792187650861-88yompdgb","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p>Que bom ter você aqui. A partir de agora, você iniciará uma verdadeira jornada pelo mundo das frações.</p>\n<p>Nosso objetivo? Aprender sobre frações equivalentes de um jeito totalmente novo: através de atividades dinâmicas, visuais e muito divertidas.</p>\n<p>Não se preocupe com as dificuldades, nós vamos caminhar juntos por cada etapa desse universo.</p>\n<p><a href=\"exe-node:page-mwc4crkr-9c9i5kxok\" title=\"\">Vamos lá?</a></p>\n<p>  <img src=\"{{context_path}}/content/resources/fração.jpg\" title=\"Frações\" width=\"612\" height=\"306\" alt=\"Várias frações circulares, do inteiro até 1/21, desenhadas no estilo doodle.\" /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc4crkr-9c9i5kxok</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>O Percurso</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>O Percurso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>O Percurso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc4crkr-9c9i5kxok</odePageId>
+      <odeBlockId>block-mwc4cyqi-b2qf4q5n3</odeBlockId>
+      <blockName>Veja as atividades que você irá fazer</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc4crkr-9c9i5kxok</odePageId>
+          <odeBlockId>block-mwc4cyqi-b2qf4q5n3</odeBlockId>
+          <odeIdeviceId>idevice-1794401562328-77ch692v7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infográfico de Frações Equivalentes 6_12 e 4_8.png" title="O Percurso" width="656" height="927" alt="imagem que apresenta como será cada atividade" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794401562328-77ch692v7","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infográfico de Frações Equivalentes 6_12 e 4_8.png\" title=\"O Percurso\" width=\"656\" height=\"927\" alt=\"imagem que apresenta como será cada atividade\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvvjg8to-wxsdp42pn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Frações Equivalentes</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Frações Equivalentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Frações Equivalentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvvjg8to-wxsdp42pn</odePageId>
+      <odeBlockId>block-mwc48rw3-2jk33iqe3</odeBlockId>
+      <blockName>O que são frações equivalentes?</blockName>
+      <iconName>mi-cards</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvvjg8to-wxsdp42pn</odePageId>
+          <odeBlockId>block-mwc48rw3-2jk33iqe3</odeBlockId>
+          <odeIdeviceId>idevice-1794401366834-b6quc0xkz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos iniciar nossa jornada com um pouco de conhecimento.</p>
+<p>Assista ao vídeo a seguir para aprender sobre frações equivalentes.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/vq1HOs78-TA" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: left;">Acesse o <a href="exe-node:60aa1228-ce02-4e57-9c4d-720d35dbdc9f" title="">Laboratório Virtual</a> para a próxima atividade.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794401366834-b6quc0xkz","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p>Vamos iniciar nossa jornada com um pouco de conhecimento.</p>\n<p>Assista ao vídeo a seguir para aprender sobre frações equivalentes.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/vq1HOs78-TA\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: left;\">Acesse o <a href=\"exe-node:60aa1228-ce02-4e57-9c4d-720d35dbdc9f\" title=\"\">Laboratório Virtual</a> para a próxima atividade.</p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Laboratório Virtual</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Laboratório Virtual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Geogebra e frações equivalentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Laboratório Virtual</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+      <odeBlockId>block-mwfl3yop-0y9oachvf</odeBlockId>
+      <blockName>É hora de estudar!</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+          <odeBlockId>block-mwfl3yop-0y9oachvf</odeBlockId>
+          <odeIdeviceId>idevice-mwfl3yop-dpyktwmny</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_imvp71imvp71imvp.jfif" width="1920" height="476" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwfl3yop-dpyktwmny","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_imvp71imvp71imvp.jfif\" width=\"1920\" height=\"476\" alt=\"\" /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+      <odeBlockId>block-mwfl3yoq-4saieh83d</odeBlockId>
+      <blockName>GeoGebra</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+          <odeBlockId>block-mwfl3yoq-4saieh83d</odeBlockId>
+          <odeIdeviceId>idevice-mwfl3yoq-jagn1xakd</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-zrxshfjg auto-geogebra-width-1341 auto-geogebra-height-562 auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-idevice-1794355638267-bdxnp3ewu auto-geogebra-weight-100"><div class="game-evaluation-ids js-hidden" data-id="idevice-1794355638267-bdxnp3ewu" data-evaluationb="false" data-evaluationid="0"></div><p><a href="https://www.geogebra.org/m/zrxshfjg" target="_blank">https://www.geogebra.org/m/zrxshfjg (Nova Janela)</a></p><div class="auto-geogebra-author js-hidden">Ricardo%20Crespo,https%3A//ggbm.at/10650663,Fracciones%20equivalentes.,1,Autor,1,T%EDtulo</div><div class="auto-geogebra-messages-evaluation">Atividade%20incompleta,Atividade%3A%20Aprovada.%20Pontua%E7%E3o%3A%20%25s,Atividade%3A%20N%E3o%20aprovada.%20Pontua%E7%E3o%3A%20%25s,Salvar%20pontua%E7%E3o,Pontua%E7%E3o%20m%EDnima%20necess%E1ria%20para%20ser%20aprovado%20nesta%20atividade%3A%20%25s</div><div class="auto-geogebra-messages-scorm">A%20pontua%E7%E3o%20n%E3o%20pode%20ser%20salva%20porque%20esta%20p%E1gina%20n%E3o%20faz%20parte%20de%20um%20pacote%20SCORM,Sua%20pontua%E7%E3o,Pontua%E7%E3o,Peso,A%20%FAltima%20pontua%E7%E3o%20salva%20%E9</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+      <odeBlockId>block-mwfjgps1-kvtrbkdah</odeBlockId>
+      <blockName>Delimitadores</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwfl3yoo-fesiwu7xl</odePageId>
+          <odeBlockId>block-mwfjgps1-kvtrbkdah</odeBlockId>
+          <odeIdeviceId>idevice-1794608330104-qq6k8nvu5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div id="lab-fracoes" style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 850px; margin: 0 auto;"><!-- BANNER DE CABEÇALHO -->
+<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: #ffffff; padding: 25px; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+<h2 style="margin: 0 0 10px 0; color: #ffffff; font-size: 24px; font-weight: bold;">🧪 Laboratório Virtual: Investigando Frações Equivalentes</h2>
+<p style="margin: 0; font-size: 15px; opacity: 0.95; line-height: 1.5;">Siga o roteiro abaixo manipulando o aplicativo do GeoGebra. Responda cada pergunta e clique em <strong>Verificar</strong> logo abaixo dela para conferir sua descoberta na hora!</p>
+</div>
+<!-- PASSO 1: DENOMINADOR -->
+<div style="background-color: #f8f9fa; border-left: 6px solid #2a5298; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<h3 style="color: #2a5298; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;"><span style="background: #2a5298; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;">1</span> Observando a Divisão e o Tamanho (Denominador)</h3>
+<p style="font-size: 15px; color: #333333; line-height: 1.6;">Ajuste o controle do <strong>numerador para 1</strong>. Deslize devagar o controle do <strong>denominador</strong> de 2 até 6 e observe os 4 círculos ao mesmo tempo.</p>
+<!-- Questão 1a -->
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">a) O que acontece com as "fatias" em cada círculo à medida que você aumenta o denominador?</p>
+<label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q1a" value="errado1" /> O número de fatias diminui e elas ficam maiores.</label> <label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q1a" value="correto" /> O número de fatias aumenta e cada fatia fica menor.</label> <label style="display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;"><input type="radio" name="q1a" value="errado2" /> O número de fatias aumenta, mas o tamanho de cada uma não muda.</label> <button type="button" onclick="var r=document.querySelector('input[name=q1a]:checked'); var fb=document.getElementById('fb-q1a'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Muito bem!&lt;/strong&gt; Quanto maior o denominador, em mais pedaços dividimos o círculo, fazendo cada fatia ficar menor.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Quase lá!&lt;/strong&gt; Observe no GeoGebra: ao subir o denominador de 2 para 6, o círculo ganha mais divisões, então cada fatia precisa diminuir para caber.';}" style="background-color: #2a5298; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Verificar 1a</button>
+<div id="fb-q1a" style="display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;"></div>
+</div>
+<!-- Questão 1b -->
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">b) Compare o 1º círculo com o 4º círculo: por que o 4º círculo tem fatias muito menores, mas a <em>área total colorida</em> continua exatamente a mesma?</p>
+<label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q1b" value="errado1" /> Porque o 4º círculo é maior que o primeiro.</label> <label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q1b" value="correto" /> Porque o inteiro foi dividido em mais partes, mas pegamos uma quantidade proporcionalmente maior de fatias menores.</label> <label style="display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;"><input type="radio" name="q1b" value="errado2" /> Porque o denominador não altera a quantidade pintada, apenas a cor.</label> <button type="button" onclick="var r=document.querySelector('input[name=q1b]:checked'); var fb=document.getElementById('fb-q1b'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Excelente!&lt;/strong&gt; A proporção pintada do círculo inteiro permanece exatamente a mesma!';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Tente novamente!&lt;/strong&gt; Repare que os 4 círculos têm o mesmo tamanho total. Como as fatias do 4º são menores, o aplicativo pinta mais fatias para manter a mesma área colorida.';}" style="background-color: #2a5298; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Verificar 1b</button>
+<div id="fb-q1b" style="display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;"></div>
+</div>
+</div>
+<!-- PASSO 2: NUMERADOR -->
+<div style="background-color: #f8f9fa; border-left: 6px solid #27ae60; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<h3 style="color: #27ae60; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;"><span style="background: #27ae60; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;">2</span> Observando a Quantidade de Fatias (Numerador)</h3>
+<p style="font-size: 15px; color: #333333; line-height: 1.6;">Mantenha o <strong>denominador em 3</strong> e deslize o controle do <strong>numerador para 2</strong>.</p>
+<!-- Questão 2a -->
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">a) Quantas fatias foram pintadas no 1º, 2º, 3º e 4º círculos, respectivamente?</p>
+<label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q2a" value="errado1" /> 2, 3, 4 e 5 fatias.</label> <label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q2a" value="correto" /> 2, 4, 6 e 8 fatias.</label> <label style="display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;"><input type="radio" name="q2a" value="errado2" /> 3, 6, 9 e 12 fatias.</label> <button type="button" onclick="var r=document.querySelector('input[name=q2a]:checked'); var fb=document.getElementById('fb-q2a'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Perfeito!&lt;/strong&gt; Os numeradores (partes pintadas) são 2, 4, 6 e 8.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Ops!&lt;/strong&gt; Conte apenas as fatias coloridas em cada círculo ou olhe para o número de cima (numerador) de cada fração.';}" style="background-color: #27ae60; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Verificar 2a</button>
+<div id="fb-q2a" style="display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;"></div>
+</div>
+<!-- Questão 2b (Digitação Direta sem Setinhas) -->
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">b) Digite os numeradores que faltam na relação numérica que apareceu na tela:</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; font-size: 18px; color: #2c3e50; margin: 15px 0; flex-wrap: wrap;">
+<div style="text-align: center;">
+<div>2</div>
+<div style="border-top: 2px solid #2c3e50; padding-top: 2px;">3</div>
+</div>
+<span>=</span>
+<div style="text-align: center;"><input type="text" id="lacuna1" maxlength="2" style="width: 40px; text-align: center; font-size: 16px; border: 2px solid #27ae60; border-radius: 4px; padding: 3px;" placeholder="?" />
+<div style="border-top: 2px solid #2c3e50; padding-top: 2px; margin-top: 3px;">6</div>
+</div>
+<span>=</span>
+<div style="text-align: center;"><input type="text" id="lacuna2" maxlength="2" style="width: 40px; text-align: center; font-size: 16px; border: 2px solid #27ae60; border-radius: 4px; padding: 3px;" placeholder="?" />
+<div style="border-top: 2px solid #2c3e50; padding-top: 2px; margin-top: 3px;">9</div>
+</div>
+<span>=</span>
+<div style="text-align: center;"><input type="text" id="lacuna3" maxlength="2" style="width: 40px; text-align: center; font-size: 16px; border: 2px solid #27ae60; border-radius: 4px; padding: 3px;" placeholder="?" />
+<div style="border-top: 2px solid #2c3e50; padding-top: 2px; margin-top: 3px;">12</div>
+</div>
+</div>
+<button type="button" onclick="var l1=document.getElementById('lacuna1').value.trim(); var l2=document.getElementById('lacuna2').value.trim(); var l3=document.getElementById('lacuna3').value.trim(); var fb=document.getElementById('fb-q2b'); fb.style.display='block'; if(l1===''||l2===''||l3===''){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Preencha os três quadradinhos antes de verificar.';} else if(l1==='4'&amp;&amp;l2==='6'&amp;&amp;l3==='8'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Sequência perfeita!&lt;/strong&gt; 2/3 = 4/6 = 6/9 = 8/12.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Revise os valores!&lt;/strong&gt; Veja o padrão: o denominador 3 foi multiplicado por 2 (virou 6), por 3 (virou 9) e por 4 (virou 12). Faça o mesmo com o numerador 2!';}" style="background-color: #27ae60; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Verificar 2b</button>
+<div id="fb-q2b" style="display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;"></div>
+</div>
+</div>
+<!-- PASSO 3: PADRÃO DA MULTIPLICAÇÃO -->
+<div style="background-color: #f8f9fa; border-left: 6px solid #8e44ad; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<h3 style="color: #8e44ad; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;"><span style="background: #8e44ad; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;">3</span> Investigando a Regra da Multiplicação</h3>
+<p style="font-size: 15px; color: #333333; line-height: 1.6;">Escolha qualquer posição para o numerador e para o denominador e observe os números das frações nos 4 círculos:</p>
+<!-- Questão 3a -->
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">a) Para transformar a fração do 1º círculo na do <strong>2º, 3º e 4º círculos</strong>, o numerador e o denominador são multiplicados, respectivamente, por:</p>
+<label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q3a" value="errado1" /> 1, 2 e 3.</label> <label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q3a" value="correto" /> 2, 3 e 4.</label> <label style="display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;"><input type="radio" name="q3a" value="errado2" /> 2, 4 e 8.</label> <button type="button" onclick="var r=document.querySelector('input[name=q3a]:checked'); var fb=document.getElementById('fb-q3a'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Isso mesmo!&lt;/strong&gt; Multiplicar o numerador e o denominador pelo mesmo número gera frações equivalentes.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Quase lá!&lt;/strong&gt; Compare o 1º círculo com os seguintes: no 2º os números dobram (×2), no 3º triplicam (×3) e no 4º quadruplicam (×4).';}" style="background-color: #8e44ad; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Verificar 3a</button>
+<div id="fb-q3a" style="display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;"></div>
+</div>
+<!-- Questão 3b -->
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">b) Se houvesse um <strong>5º círculo</strong> nessa mesma sequência (partindo do exemplo do Passo 2: 2/3), qual seria a fração representada nele?</p>
+<label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q3b" value="errado1" /> 8/15</label> <label style="display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;"><input type="radio" name="q3b" value="correto" /> 10/15</label> <label style="display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;"><input type="radio" name="q3b" value="errado2" /> 10/12</label> <button type="button" onclick="var r=document.querySelector('input[name=q3b]:checked'); var fb=document.getElementById('fb-q3b'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Perfeito!&lt;/strong&gt; Multiplicando 2/3 em cima e embaixo por 5, obtemos 10/15.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Tente de novo!&lt;/strong&gt; Para achar o 5º círculo, multiplicamos tanto o numerador (2) quanto o denominador (3) por 5: 2×5 e 3×5.';}" style="background-color: #8e44ad; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Verificar 3b</button>
+<div id="fb-q3b" style="display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;"></div>
+</div>
+</div>
+<!-- PASSO 4: SÍNTESE -->
+<div style="background-color: #fff9e6; border-left: 6px solid #f39c12; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<h3 style="color: #d35400; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;"><span style="background: #f39c12; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;">4</span> Sua Conclusão</h3>
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #ebd494;">
+<p style="margin: 0 0 10px 0; font-weight: 600; color: #444;">Com suas palavras, explique: por que podemos afirmar que 1/2, 2/4, 3/6 e 4/8 são <strong>frações equivalentes</strong>, mesmo sendo escritas com números diferentes?</p>
+<textarea id="texto-conclusao" rows="3" style="width: 100%; box-sizing: border-box; padding: 10px; border: 1px solid #ccc; border-radius: 5px; font-family: inherit; font-size: 14px; margin-bottom: 10px;" placeholder="Escreva sua conclusão aqui..."></textarea> <button type="button" onclick="var txt=document.getElementById('texto-conclusao').value.trim(); var fb=document.getElementById('fb-conclusao'); fb.style.display='block'; if(txt.length&lt;8){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Escreva sua resposta no campo acima antes de conferir o gabarito comentado!';} else {fb.style.background='#e8f4fd'; fb.style.color='#1a5276'; fb.innerHTML='&lt;strong&gt;📝 Compare sua resposta com o esperado:&lt;/strong&gt;&lt;br&gt;Elas são equivalentes porque representam &lt;strong&gt;exatamente a mesma quantidade&lt;/strong&gt; (ocupam a mesma área colorida do círculo inteiro), e são obtidas multiplicando o numerador e o denominador pelo mesmo número.';}" style="background-color: #d35400; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;">Conferir Conclusão</button>
+<div id="fb-conclusao" style="display: none; margin-top: 10px; padding: 12px; border-radius: 4px; font-size: 14px;"></div>
+</div>
+</div>
+</div>
+<!-- BOTÕES DE NOTA TOTAL E REINICIAR -->
+<div style="text-align: center; margin-top: 25px; margin-bottom: 15px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;"><button type="button" onclick="var pts=0; var tot=6; var q1a=document.querySelector('input[name=q1a]:checked'); if(q1a &amp;&amp; q1a.value==='correto'){pts++;} var q1b=document.querySelector('input[name=q1b]:checked'); if(q1b &amp;&amp; q1b.value==='correto'){pts++;} var q2a=document.querySelector('input[name=q2a]:checked'); if(q2a &amp;&amp; q2a.value==='correto'){pts++;} var l1=document.getElementById('lacuna1').value.trim(); var l2=document.getElementById('lacuna2').value.trim(); var l3=document.getElementById('lacuna3').value.trim(); if(l1==='4' &amp;&amp; l2==='6' &amp;&amp; l3==='8'){pts++;} var q3a=document.querySelector('input[name=q3a]:checked'); if(q3a &amp;&amp; q3a.value==='correto'){pts++;} var q3b=document.querySelector('input[name=q3b]:checked'); if(q3b &amp;&amp; q3b.value==='correto'){pts++;} var nota=Math.round((pts/tot)*100); var res=document.getElementById('resultado-geral'); res.style.display='block'; if(pts===tot){res.style.backgroundColor='#d4edda'; res.style.color='#155724'; res.style.border='1px solid #c3e6cb'; res.innerHTML='🏆 &lt;strong&gt;Parabéns!&lt;/strong&gt; Você acertou &lt;strong&gt;'+pts+' de '+tot+'&lt;/strong&gt; questões objetivas (&lt;strong&gt;'+nota+'%&lt;/strong&gt; de aproveitamento)!';} else if(pts&gt;=4){res.style.backgroundColor='#e8f4fd'; res.style.color='#1a5276'; res.style.border='1px solid #b8daff'; res.innerHTML='👏 &lt;strong&gt;Bom trabalho!&lt;/strong&gt; Você acertou &lt;strong&gt;'+pts+' de '+tot+'&lt;/strong&gt; questões objetivas (&lt;strong&gt;'+nota+'%&lt;/strong&gt;). Confira os feedbacks acima para revisar o que faltou!';} else {res.style.backgroundColor='#fff3cd'; res.style.color='#856404'; res.style.border='1px solid #ffeeba'; res.innerHTML='📊 Você acertou &lt;strong&gt;'+pts+' de '+tot+'&lt;/strong&gt; questões objetivas (&lt;strong&gt;'+nota+'%&lt;/strong&gt;). Volte ao GeoGebra, clique em &lt;em&gt;Verificar&lt;/em&gt; em cada item e tente novamente!';}" style="background-color: #27ae60; color: white; border: none; padding: 12px 24px; font-size: 15px; font-weight: bold; border-radius: 8px; cursor: pointer; box-shadow: 0 3px 8px rgba(39, 174, 96, 0.25);"> 🏆 Ver Nota Total </button> <button type="button" onclick="var rs=document.querySelectorAll('#lab-fracoes input[type=radio]'); for(var i=0;i&lt;rs.length;i++){rs[i].checked=false;} document.getElementById('lacuna1').value=''; document.getElementById('lacuna2').value=''; document.getElementById('lacuna3').value=''; document.getElementById('texto-conclusao').value=''; var fbs=document.querySelectorAll('#lab-fracoes [id^=fb-]'); for(var j=0;j&lt;fbs.length;j++){fbs[j].style.display='none';} document.getElementById('resultado-geral').style.display='none';" style="background-color: #7f8c8d; color: white; border: none; padding: 12px 24px; font-size: 15px; font-weight: bold; border-radius: 8px; cursor: pointer; box-shadow: 0 3px 8px rgba(0,0,0,0.15);"> 🔄 Reiniciar Questionário </button></div>
+<!-- CAIXA DO PLACAR GERAL -->
+<div id="resultado-geral" style="display: none; margin-top: 15px; padding: 18px; border-radius: 8px; text-align: center; font-size: 16px; line-height: 1.5;"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794608330104-qq6k8nvu5","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<div id=\"lab-fracoes\" style=\"font-family: 'Segoe UI', Arial, sans-serif; max-width: 850px; margin: 0 auto;\"><!-- BANNER DE CABEÇALHO -->\n<div style=\"background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: #ffffff; padding: 25px; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);\">\n<h2 style=\"margin: 0 0 10px 0; color: #ffffff; font-size: 24px; font-weight: bold;\">🧪 Laboratório Virtual: Investigando Frações Equivalentes</h2>\n<p style=\"margin: 0; font-size: 15px; opacity: 0.95; line-height: 1.5;\">Siga o roteiro abaixo manipulando o aplicativo do GeoGebra. Responda cada pergunta e clique em <strong>Verificar</strong> logo abaixo dela para conferir sua descoberta na hora!</p>\n</div>\n<!-- PASSO 1: DENOMINADOR -->\n<div style=\"background-color: #f8f9fa; border-left: 6px solid #2a5298; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<h3 style=\"color: #2a5298; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;\"><span style=\"background: #2a5298; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;\">1</span> Observando a Divisão e o Tamanho (Denominador)</h3>\n<p style=\"font-size: 15px; color: #333333; line-height: 1.6;\">Ajuste o controle do <strong>numerador para 1</strong>. Deslize devagar o controle do <strong>denominador</strong> de 2 até 6 e observe os 4 círculos ao mesmo tempo.</p>\n<!-- Questão 1a -->\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">a) O que acontece com as \"fatias\" em cada círculo à medida que você aumenta o denominador?</p>\n<label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q1a\" value=\"errado1\" /> O número de fatias diminui e elas ficam maiores.</label> <label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q1a\" value=\"correto\" /> O número de fatias aumenta e cada fatia fica menor.</label> <label style=\"display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q1a\" value=\"errado2\" /> O número de fatias aumenta, mas o tamanho de cada uma não muda.</label> <button type=\"button\" onclick=\"var r=document.querySelector('input[name=q1a]:checked'); var fb=document.getElementById('fb-q1a'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Muito bem!&lt;/strong&gt; Quanto maior o denominador, em mais pedaços dividimos o círculo, fazendo cada fatia ficar menor.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Quase lá!&lt;/strong&gt; Observe no GeoGebra: ao subir o denominador de 2 para 6, o círculo ganha mais divisões, então cada fatia precisa diminuir para caber.';}\" style=\"background-color: #2a5298; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Verificar 1a</button>\n<div id=\"fb-q1a\" style=\"display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;\"></div>\n</div>\n<!-- Questão 1b -->\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">b) Compare o 1º círculo com o 4º círculo: por que o 4º círculo tem fatias muito menores, mas a <em>área total colorida</em> continua exatamente a mesma?</p>\n<label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q1b\" value=\"errado1\" /> Porque o 4º círculo é maior que o primeiro.</label> <label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q1b\" value=\"correto\" /> Porque o inteiro foi dividido em mais partes, mas pegamos uma quantidade proporcionalmente maior de fatias menores.</label> <label style=\"display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q1b\" value=\"errado2\" /> Porque o denominador não altera a quantidade pintada, apenas a cor.</label> <button type=\"button\" onclick=\"var r=document.querySelector('input[name=q1b]:checked'); var fb=document.getElementById('fb-q1b'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Excelente!&lt;/strong&gt; A proporção pintada do círculo inteiro permanece exatamente a mesma!';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Tente novamente!&lt;/strong&gt; Repare que os 4 círculos têm o mesmo tamanho total. Como as fatias do 4º são menores, o aplicativo pinta mais fatias para manter a mesma área colorida.';}\" style=\"background-color: #2a5298; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Verificar 1b</button>\n<div id=\"fb-q1b\" style=\"display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;\"></div>\n</div>\n</div>\n<!-- PASSO 2: NUMERADOR -->\n<div style=\"background-color: #f8f9fa; border-left: 6px solid #27ae60; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<h3 style=\"color: #27ae60; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;\"><span style=\"background: #27ae60; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;\">2</span> Observando a Quantidade de Fatias (Numerador)</h3>\n<p style=\"font-size: 15px; color: #333333; line-height: 1.6;\">Mantenha o <strong>denominador em 3</strong> e deslize o controle do <strong>numerador para 2</strong>.</p>\n<!-- Questão 2a -->\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">a) Quantas fatias foram pintadas no 1º, 2º, 3º e 4º círculos, respectivamente?</p>\n<label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q2a\" value=\"errado1\" /> 2, 3, 4 e 5 fatias.</label> <label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q2a\" value=\"correto\" /> 2, 4, 6 e 8 fatias.</label> <label style=\"display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q2a\" value=\"errado2\" /> 3, 6, 9 e 12 fatias.</label> <button type=\"button\" onclick=\"var r=document.querySelector('input[name=q2a]:checked'); var fb=document.getElementById('fb-q2a'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Perfeito!&lt;/strong&gt; Os numeradores (partes pintadas) são 2, 4, 6 e 8.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Ops!&lt;/strong&gt; Conte apenas as fatias coloridas em cada círculo ou olhe para o número de cima (numerador) de cada fração.';}\" style=\"background-color: #27ae60; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Verificar 2a</button>\n<div id=\"fb-q2a\" style=\"display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;\"></div>\n</div>\n<!-- Questão 2b (Digitação Direta sem Setinhas) -->\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">b) Digite os numeradores que faltam na relação numérica que apareceu na tela:</p>\n<div style=\"display: flex; align-items: center; justify-content: center; gap: 12px; font-size: 18px; color: #2c3e50; margin: 15px 0; flex-wrap: wrap;\">\n<div style=\"text-align: center;\">\n<div>2</div>\n<div style=\"border-top: 2px solid #2c3e50; padding-top: 2px;\">3</div>\n</div>\n<span>=</span>\n<div style=\"text-align: center;\"><input type=\"text\" id=\"lacuna1\" maxlength=\"2\" style=\"width: 40px; text-align: center; font-size: 16px; border: 2px solid #27ae60; border-radius: 4px; padding: 3px;\" placeholder=\"?\" />\n<div style=\"border-top: 2px solid #2c3e50; padding-top: 2px; margin-top: 3px;\">6</div>\n</div>\n<span>=</span>\n<div style=\"text-align: center;\"><input type=\"text\" id=\"lacuna2\" maxlength=\"2\" style=\"width: 40px; text-align: center; font-size: 16px; border: 2px solid #27ae60; border-radius: 4px; padding: 3px;\" placeholder=\"?\" />\n<div style=\"border-top: 2px solid #2c3e50; padding-top: 2px; margin-top: 3px;\">9</div>\n</div>\n<span>=</span>\n<div style=\"text-align: center;\"><input type=\"text\" id=\"lacuna3\" maxlength=\"2\" style=\"width: 40px; text-align: center; font-size: 16px; border: 2px solid #27ae60; border-radius: 4px; padding: 3px;\" placeholder=\"?\" />\n<div style=\"border-top: 2px solid #2c3e50; padding-top: 2px; margin-top: 3px;\">12</div>\n</div>\n</div>\n<button type=\"button\" onclick=\"var l1=document.getElementById('lacuna1').value.trim(); var l2=document.getElementById('lacuna2').value.trim(); var l3=document.getElementById('lacuna3').value.trim(); var fb=document.getElementById('fb-q2b'); fb.style.display='block'; if(l1===''||l2===''||l3===''){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Preencha os três quadradinhos antes de verificar.';} else if(l1==='4'&amp;&amp;l2==='6'&amp;&amp;l3==='8'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Sequência perfeita!&lt;/strong&gt; 2/3 = 4/6 = 6/9 = 8/12.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Revise os valores!&lt;/strong&gt; Veja o padrão: o denominador 3 foi multiplicado por 2 (virou 6), por 3 (virou 9) e por 4 (virou 12). Faça o mesmo com o numerador 2!';}\" style=\"background-color: #27ae60; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Verificar 2b</button>\n<div id=\"fb-q2b\" style=\"display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;\"></div>\n</div>\n</div>\n<!-- PASSO 3: PADRÃO DA MULTIPLICAÇÃO -->\n<div style=\"background-color: #f8f9fa; border-left: 6px solid #8e44ad; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<h3 style=\"color: #8e44ad; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;\"><span style=\"background: #8e44ad; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;\">3</span> Investigando a Regra da Multiplicação</h3>\n<p style=\"font-size: 15px; color: #333333; line-height: 1.6;\">Escolha qualquer posição para o numerador e para o denominador e observe os números das frações nos 4 círculos:</p>\n<!-- Questão 3a -->\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">a) Para transformar a fração do 1º círculo na do <strong>2º, 3º e 4º círculos</strong>, o numerador e o denominador são multiplicados, respectivamente, por:</p>\n<label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q3a\" value=\"errado1\" /> 1, 2 e 3.</label> <label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q3a\" value=\"correto\" /> 2, 3 e 4.</label> <label style=\"display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q3a\" value=\"errado2\" /> 2, 4 e 8.</label> <button type=\"button\" onclick=\"var r=document.querySelector('input[name=q3a]:checked'); var fb=document.getElementById('fb-q3a'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Isso mesmo!&lt;/strong&gt; Multiplicar o numerador e o denominador pelo mesmo número gera frações equivalentes.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Quase lá!&lt;/strong&gt; Compare o 1º círculo com os seguintes: no 2º os números dobram (×2), no 3º triplicam (×3) e no 4º quadruplicam (×4).';}\" style=\"background-color: #8e44ad; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Verificar 3a</button>\n<div id=\"fb-q3a\" style=\"display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;\"></div>\n</div>\n<!-- Questão 3b -->\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #e0e0e0; margin-top: 12px;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">b) Se houvesse um <strong>5º círculo</strong> nessa mesma sequência (partindo do exemplo do Passo 2: 2/3), qual seria a fração representada nele?</p>\n<label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q3b\" value=\"errado1\" /> 8/15</label> <label style=\"display: block; margin-bottom: 8px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q3b\" value=\"correto\" /> 10/15</label> <label style=\"display: block; margin-bottom: 12px; cursor: pointer; font-size: 14px;\"><input type=\"radio\" name=\"q3b\" value=\"errado2\" /> 10/12</label> <button type=\"button\" onclick=\"var r=document.querySelector('input[name=q3b]:checked'); var fb=document.getElementById('fb-q3b'); fb.style.display='block'; if(!r){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Selecione uma opção antes de verificar.';} else if(r.value==='correto'){fb.style.background='#d4edda'; fb.style.color='#155724'; fb.innerHTML='&lt;strong&gt;✔ Perfeito!&lt;/strong&gt; Multiplicando 2/3 em cima e embaixo por 5, obtemos 10/15.';} else {fb.style.background='#f8d7da'; fb.style.color='#721c24'; fb.innerHTML='&lt;strong&gt;✖ Tente de novo!&lt;/strong&gt; Para achar o 5º círculo, multiplicamos tanto o numerador (2) quanto o denominador (3) por 5: 2×5 e 3×5.';}\" style=\"background-color: #8e44ad; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Verificar 3b</button>\n<div id=\"fb-q3b\" style=\"display: none; margin-top: 10px; padding: 10px; border-radius: 5px; font-size: 14px;\"></div>\n</div>\n</div>\n<!-- PASSO 4: SÍNTESE -->\n<div style=\"background-color: #fff9e6; border-left: 6px solid #f39c12; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);\">\n<h3 style=\"color: #d35400; margin-top: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center;\"><span style=\"background: #f39c12; color: white; border-radius: 50%; width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px; font-size: 14px;\">4</span> Sua Conclusão</h3>\n<div style=\"background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #ebd494;\">\n<p style=\"margin: 0 0 10px 0; font-weight: 600; color: #444;\">Com suas palavras, explique: por que podemos afirmar que 1/2, 2/4, 3/6 e 4/8 são <strong>frações equivalentes</strong>, mesmo sendo escritas com números diferentes?</p>\n<textarea id=\"texto-conclusao\" rows=\"3\" style=\"width: 100%; box-sizing: border-box; padding: 10px; border: 1px solid #ccc; border-radius: 5px; font-family: inherit; font-size: 14px; margin-bottom: 10px;\" placeholder=\"Escreva sua conclusão aqui...\"></textarea> <button type=\"button\" onclick=\"var txt=document.getElementById('texto-conclusao').value.trim(); var fb=document.getElementById('fb-conclusao'); fb.style.display='block'; if(txt.length&lt;8){fb.style.background='#fff3cd'; fb.style.color='#856404'; fb.innerHTML='⚠️ Escreva sua resposta no campo acima antes de conferir o gabarito comentado!';} else {fb.style.background='#e8f4fd'; fb.style.color='#1a5276'; fb.innerHTML='&lt;strong&gt;📝 Compare sua resposta com o esperado:&lt;/strong&gt;&lt;br&gt;Elas são equivalentes porque representam &lt;strong&gt;exatamente a mesma quantidade&lt;/strong&gt; (ocupam a mesma área colorida do círculo inteiro), e são obtidas multiplicando o numerador e o denominador pelo mesmo número.';}\" style=\"background-color: #d35400; color: white; border: none; padding: 8px 16px; font-size: 13px; font-weight: bold; border-radius: 5px; cursor: pointer;\">Conferir Conclusão</button>\n<div id=\"fb-conclusao\" style=\"display: none; margin-top: 10px; padding: 12px; border-radius: 4px; font-size: 14px;\"></div>\n</div>\n</div>\n</div>\n<!-- BOTÕES DE NOTA TOTAL E REINICIAR -->\n<div style=\"text-align: center; margin-top: 25px; margin-bottom: 15px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;\"><button type=\"button\" onclick=\"var pts=0; var tot=6; var q1a=document.querySelector('input[name=q1a]:checked'); if(q1a &amp;&amp; q1a.value==='correto'){pts++;} var q1b=document.querySelector('input[name=q1b]:checked'); if(q1b &amp;&amp; q1b.value==='correto'){pts++;} var q2a=document.querySelector('input[name=q2a]:checked'); if(q2a &amp;&amp; q2a.value==='correto'){pts++;} var l1=document.getElementById('lacuna1').value.trim(); var l2=document.getElementById('lacuna2').value.trim(); var l3=document.getElementById('lacuna3').value.trim(); if(l1==='4' &amp;&amp; l2==='6' &amp;&amp; l3==='8'){pts++;} var q3a=document.querySelector('input[name=q3a]:checked'); if(q3a &amp;&amp; q3a.value==='correto'){pts++;} var q3b=document.querySelector('input[name=q3b]:checked'); if(q3b &amp;&amp; q3b.value==='correto'){pts++;} var nota=Math.round((pts/tot)*100); var res=document.getElementById('resultado-geral'); res.style.display='block'; if(pts===tot){res.style.backgroundColor='#d4edda'; res.style.color='#155724'; res.style.border='1px solid #c3e6cb'; res.innerHTML='🏆 &lt;strong&gt;Parabéns!&lt;/strong&gt; Você acertou &lt;strong&gt;'+pts+' de '+tot+'&lt;/strong&gt; questões objetivas (&lt;strong&gt;'+nota+'%&lt;/strong&gt; de aproveitamento)!';} else if(pts&gt;=4){res.style.backgroundColor='#e8f4fd'; res.style.color='#1a5276'; res.style.border='1px solid #b8daff'; res.innerHTML='👏 &lt;strong&gt;Bom trabalho!&lt;/strong&gt; Você acertou &lt;strong&gt;'+pts+' de '+tot+'&lt;/strong&gt; questões objetivas (&lt;strong&gt;'+nota+'%&lt;/strong&gt;). Confira os feedbacks acima para revisar o que faltou!';} else {res.style.backgroundColor='#fff3cd'; res.style.color='#856404'; res.style.border='1px solid #ffeeba'; res.innerHTML='📊 Você acertou &lt;strong&gt;'+pts+' de '+tot+'&lt;/strong&gt; questões objetivas (&lt;strong&gt;'+nota+'%&lt;/strong&gt;). Volte ao GeoGebra, clique em &lt;em&gt;Verificar&lt;/em&gt; em cada item e tente novamente!';}\" style=\"background-color: #27ae60; color: white; border: none; padding: 12px 24px; font-size: 15px; font-weight: bold; border-radius: 8px; cursor: pointer; box-shadow: 0 3px 8px rgba(39, 174, 96, 0.25);\"> 🏆 Ver Nota Total </button> <button type=\"button\" onclick=\"var rs=document.querySelectorAll('#lab-fracoes input[type=radio]'); for(var i=0;i&lt;rs.length;i++){rs[i].checked=false;} document.getElementById('lacuna1').value=''; document.getElementById('lacuna2').value=''; document.getElementById('lacuna3').value=''; document.getElementById('texto-conclusao').value=''; var fbs=document.querySelectorAll('#lab-fracoes [id^=fb-]'); for(var j=0;j&lt;fbs.length;j++){fbs[j].style.display='none';} document.getElementById('resultado-geral').style.display='none';\" style=\"background-color: #7f8c8d; color: white; border: none; padding: 12px 24px; font-size: 15px; font-weight: bold; border-radius: 8px; cursor: pointer; box-shadow: 0 3px 8px rgba(0,0,0,0.15);\"> 🔄 Reiniciar Questionário </button></div>\n<!-- CAIXA DO PLACAR GERAL -->\n<div id=\"resultado-geral\" style=\"display: none; margin-top: 15px; padding: 18px; border-radius: 8px; text-align: center; font-size: 16px; line-height: 1.5;\"></div>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvbjley2-5sdxbzlxi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Jogo da Memória</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Jogo da Memória</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Frações Equivalentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Jogo da Memória</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvbjley2-5sdxbzlxi</odePageId>
+      <odeBlockId>block-mvvhez8w-y3oeg8wcm</odeBlockId>
+      <blockName>Jogo da Memória</blockName>
+      <iconName>mi-gamepad</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvbjley2-5sdxbzlxi</odePageId>
+          <odeBlockId>block-mvvhez8w-y3oeg8wcm</odeBlockId>
+          <odeIdeviceId>idevice-1793395566317-8znmj692k</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1793395566317-8znmj692k" data-evaluationb="false" data-evaluationid="880e1908-6f9c-4461-a040-bc3460cc6e3e"></div><div class="flipcards-instructions"><p>Neste jogo, você precisará encontrar as cartas que formam <a title="frações equivalentes" class="exe-dialog-link" rel="lightbox" href="#tc14e277a-c398-4e94-1f5f-a1fc1b56daf7" id="linkc14e277a-c398-4e94-1f5f-a1fc1b56daf7">frações equivalentes</a>.</p>
+<div id="tc14e277a-c398-4e94-1f5f-a1fc1b56daf7" class="exe-dialog-text js-hidden">
+<p>As imagens que apresentam o mesmo pedaço colorido formam um par.</p>
+</div></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Neste jogo, você precisará encontrar as cartas que formam <a title=\"frações equivalentes\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#tc14e277a-c398-4e94-1f5f-a1fc1b56daf7\" id=\"linkc14e277a-c398-4e94-1f5f-a1fc1b56daf7\">frações equivalentes</a>.</p>\n<div id=\"tc14e277a-c398-4e94-1f5f-a1fc1b56daf7\" class=\"exe-dialog-text js-hidden\">\n<p>As imagens que apresentam o mesmo pedaço colorido formam um par.</p>\n</div>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":100,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/11.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/12.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/09.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/10.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/07.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/08.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/05.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/06.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/03.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/04.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/02.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/01.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""}],"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":3,"showSolution":true,"timeShowSolution":3,"time":5,"evaluation":false,"evaluationID":"880e1908-6f9c-4461-a040-bc3460cc6e3e","passScoreMode":"global","passScoreCustom":5,"imgCard":"","id":"idevice-1793395566317-8znmj692k","msgs":{"msgSubmit":"Enviar","msgClue":"Legal! A dica é:","msgCodeAccess":"Código de acesso","msgPlayAgain":"Jogar novamente","msgPlayStart":"Clique aqui para jogar","msgScore":"Pontuação","msgWeight":"Peso","msgErrors":"Erros","msgHits":"Acertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"Legal!","msgFullScreen":"Tela Cheia","msgExitFullScreen":"Sair da Tela Cheia","msgSuccesses":"Certo! | Excelente! | Ótimo! | Muito bom! | Perfeito!","msgFailures":"Não foi isso! | Incorreto! | Não está correto! | Desculpe! | Erro!","msgNoImage":"Pergunta sem imagem","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgInformation":"Informação","msgYouScore":"Sua pontuação","msgAuthor":"Autor","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgClose":"Fechar","msgAudio":"Áudio","msgPreviousCard":"Anterior","msgNextCard":"Próximo","msgNumQuestions":"Número de cartas","msgTrue":"Verdadeiro","msgFalse":"Falso","msgTryAgain":"Você precisa de pelo menos %s% de respostas corretas para obter a informação. Por favor, tente novamente.","mgsAllQuestions":"Perguntas concluídas!","msgTrue1":"Certo. Essa é a carta.","msgTrue2":"Você está errado. Essa não é a carta.","msgFalse1":"Certo. Essa não é a carta.","msgFalse2":"Você está errado. Essa é a carta.","mgsClickCard":"Clique na carta","msgEndTime":"O tempo do jogo acabou. Sua pontuação é %s.","msgEnd":"Concluir","msgEndGameM":"Você completou o jogo. Sua pontuação é %s.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgPassScore":"Pontuação mínima necessária para ser aprovado nesta atividade: %s","msgTypeGame":"Cartas de memória"}}</div><a href="{{context_path}}/content/resources/11.png" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/12.png" class="js-hidden flipcards-LinkImagesBack">0</a><a href="{{context_path}}/content/resources/09.png" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/10.png" class="js-hidden flipcards-LinkImagesBack">1</a><a href="{{context_path}}/content/resources/07.png" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/08.png" class="js-hidden flipcards-LinkImagesBack">2</a><a href="{{context_path}}/content/resources/05.png" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/06.png" class="js-hidden flipcards-LinkImagesBack">3</a><a href="{{context_path}}/content/resources/03.png" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/04.png" class="js-hidden flipcards-LinkImagesBack">4</a><a href="{{context_path}}/content/resources/02.png" class="js-hidden flipcards-LinkImages">5</a><a href="{{context_path}}/content/resources/01.png" class="js-hidden flipcards-LinkImagesBack">5</a><div class="flipcards-bns js-hidden">Seu navegador não é compatível com esta ferramenta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvvkvx54-i5ygbsd71</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Multiplicando e Dividindo uma Fração</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Multiplicando e Dividindo uma Fração</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Completar a Fração</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Multiplicando e Dividindo uma Fração</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvvkvx54-i5ygbsd71</odePageId>
+      <odeBlockId>block-mwfi5t60-p95utp5t5</odeBlockId>
+      <blockName>Encontrando frações equivalentes</blockName>
+      <iconName>mi-flex_wrap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvvkvx54-i5ygbsd71</odePageId>
+          <odeBlockId>block-mwfi5t60-p95utp5t5</odeBlockId>
+          <odeIdeviceId>idevice-1794606141666-n96wk25tc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Uma fração equivalente pode ser encontrada multiplicando (ou dividindo) outra fração por um número. Veja os exemplos:</p>
+<p><br /></p>
+<p><br /><span style="font-size: 24pt;">\(\frac{2}{7}\) \(\frac{\times 2}{\times 2}\) = \(\frac{4}{14}\)</span></p>
+<p><br /></p>
+<p><br /><span style="font-size: 24pt;">\(\frac{30}{50}\) \(\frac{: 5}{: 5}\) = \(\frac{6}{10}\)</span></p>
+<p><br /></p>
+<p><br />Agora, vamos praticar através do quiz abaixo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794606141666-n96wk25tc","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p>Uma fração equivalente pode ser encontrada multiplicando (ou dividindo) outra fração por um número. Veja os exemplos:</p>\n<p><br /></p>\n<p><br /><span style=\"font-size: 24pt;\">\\(\\frac{2}{7}\\) \\(\\frac{\\times 2}{\\times 2}\\) = \\(\\frac{4}{14}\\)</span></p>\n<p><br /></p>\n<p><br /><span style=\"font-size: 24pt;\">\\(\\frac{30}{50}\\) \\(\\frac{: 5}{: 5}\\) = \\(\\frac{6}{10}\\)</span></p>\n<p><br /></p>\n<p><br />Agora, vamos praticar através do quiz abaixo.</p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvvkvx54-i5ygbsd71</odePageId>
+      <odeBlockId>block-mw5j983t-i48ir5re4</odeBlockId>
+      <blockName>Quiz Complete a Fração</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvvkvx54-i5ygbsd71</odePageId>
+          <odeBlockId>block-mw5j983t-i48ir5re4</odeBlockId>
+          <odeIdeviceId>idevice-1794003318850-nm84srfmz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://kahoot.it/challenge/01333359?challenge-id=48a914bd-a68d-4adb-9f91-fae2f25e75b5_1794003411071" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Incapaz de exibir um iframe carregado via HTTP em um site que usa HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvvj2wy3-pz38qsa9s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Relacionar Colunas</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relacionar Colunas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relacionar Colunas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvvj2wy3-pz38qsa9s</odePageId>
+      <odeBlockId>block-mvvj30u7-mu4m66k0y</odeBlockId>
+      <blockName></blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvvj2wy3-pz38qsa9s</odePageId>
+          <odeBlockId>block-mvvj30u7-mu4m66k0y</odeBlockId>
+          <odeIdeviceId>idevice-1793398367740-sqb6m6g0q</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Os cartões à esquerda mostram frações na forma de imagem. Os cartões na coluna à direita mostram frações equivalentes na forma escrita.</p>
+<p>Você deve associar as imagens às frações equivalentes correspondentes. Ao terminar, clique no botão VERIFICAR para conferir sua resposta.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Os cartões à esquerda mostram frações na forma de imagem. Os cartões na coluna à direita mostram frações equivalentes na forma escrita.</p>\n<p>Você deve associar as imagens às frações equivalentes correspondentes. Ao terminar, clique no botão VERIFICAR para conferir sua resposta.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/02.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/3 6.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/03.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/4 12.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/05.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/6 9.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/07.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/2 8.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/09.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/2 10.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/11.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/6 16.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""}],"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":1,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"880e1908-6f9c-4461-a040-bc3460cc6e3e","passScoreMode":"global","passScoreCustom":5,"id":"idevice-1793398367740-sqb6m6g0q","msgs":{"msgSubmit":"Enviar","msgClue":"Legal! A dica é:","msgCodeAccess":"Código de acesso","msgPlayStart":"Clique aqui para jogar","msgScore":"Pontuação","msgErrors":"Erros","msgHits":"Acertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Tela Cheia","msgExitFullScreen":"Sair da Tela Cheia","msgNoImage":"Pergunta sem imagem","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgInformation":"Informação","msgYouScore":"Sua pontuação","msgAuthor":"Autor","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgClose":"Fechar","msgAudio":"Áudio","msgNumQuestions":"Número de cartas","msgTryAgain":"Você precisa de pelo menos %s% de respostas corretas para obter a informação. Por favor, tente novamente.","msgEndGameM":"Você completou o jogo. Sua pontuação é %s.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgPassScore":"Pontuação mínima necessária para ser aprovado nesta atividade: %s","msgTypeGame":"Relacionar","msgCheck":"Verificar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1793398367740-sqb6m6g0q" data-evaluationb="false" data-evaluationid="880e1908-6f9c-4461-a040-bc3460cc6e3e"></div><a href="{{context_path}}/content/resources/02.png" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/3 6.png" class="js-hidden relaciona-LinkImagesBack">0</a><a href="{{context_path}}/content/resources/03.png" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/4 12.png" class="js-hidden relaciona-LinkImagesBack">1</a><a href="{{context_path}}/content/resources/05.png" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/6 9.png" class="js-hidden relaciona-LinkImagesBack">2</a><a href="{{context_path}}/content/resources/07.png" class="js-hidden relaciona-LinkImages">3</a><a href="{{context_path}}/content/resources/2 8.png" class="js-hidden relaciona-LinkImagesBack">3</a><a href="{{context_path}}/content/resources/09.png" class="js-hidden relaciona-LinkImages">4</a><a href="{{context_path}}/content/resources/2 10.png" class="js-hidden relaciona-LinkImagesBack">4</a><a href="{{context_path}}/content/resources/11.png" class="js-hidden relaciona-LinkImages">5</a><a href="{{context_path}}/content/resources/6 16.png" class="js-hidden relaciona-LinkImagesBack">5</a><div class="relaciona-bns js-hidden">Seu navegador não é compatível com esta ferramenta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwfiht0o-4v32spimx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoavaliação</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoavaliação</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoavaliação</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwfiht0o-4v32spimx</odePageId>
+      <odeBlockId>block-mwfk5eke-lwtebv6o7</odeBlockId>
+      <blockName>Site externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwfiht0o-4v32spimx</odePageId>
+          <odeBlockId>block-mwfk5eke-lwtebv6o7</odeBlockId>
+          <odeIdeviceId>idevice-1794609481972-dr6gko0pv</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://forms.gle/9znmWAegS32WNEsz8" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Incapaz de exibir um iframe carregado via HTTP em um site que usa HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
